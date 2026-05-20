@@ -33,6 +33,7 @@ This project focuses on the time series analysis and forecasting of the US stock
 └── README.md              # Project documentation
 
 ----
+
 ## 💻 How to Run
 
 You can run this project in two ways:
