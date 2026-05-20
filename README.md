@@ -31,3 +31,15 @@ This project focuses on the time series analysis and forecasting of the US stock
 ├── src/                   # Python scripts for data pipeline
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
+
+----
+## 💻 How to Run
+
+You can run this project in two ways:
+
+### Option 1: Run directly in Google Colab (Recommended)
+1. Download the `.ipynb` file from this repository.
+2. Go to [Google Colab](https://colab.research.google.com/) and upload the notebook.
+3. Run the cells. The required libraries will be installed automatically inside the notebook using:
+   ```python
+   !pip install yfinance tensorflow pandas matplotlib
